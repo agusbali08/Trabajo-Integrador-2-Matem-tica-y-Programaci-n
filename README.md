@@ -1,4 +1,4 @@
-# Trabajo-Integrador-2-Matem-tica-y-Programaci-n
+# Trabajo-Integrador-2-Matematica-y-Programacion
 
 Integrantes:
 Williams Exequiel Cantero, Agustin Baliño, Jose Juan Abad
